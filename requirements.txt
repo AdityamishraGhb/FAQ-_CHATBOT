@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-google-genai
+langchain-huggingface
+transformers>=4.39.0
+torch
+python-dotenv
+pydantic
+requests
